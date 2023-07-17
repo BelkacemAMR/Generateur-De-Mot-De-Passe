@@ -1,4 +1,4 @@
-# Generateur De Mot De Passe
+# Générateur De Mot De Passe
 
 Ce programme est une fonction qui génère un mot de passe aléatoire.
 
